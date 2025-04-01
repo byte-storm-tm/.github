@@ -7,7 +7,7 @@ Somos una empresa innovadora dedicada al diseño y desarrollo de <i>soluciones d
 
 ## 🦄 ¿Qué es esto?
 
-> Esto es un equipo de GitHub, creado con el propósito de desarrollar y gestionar diversos códigos que serán fundamentales en nuestros proyectos. A través de esta plataforma, podremos organizar, visualizar y colaborar en cada implementación de manera eficiente, asegurando que todos los integrantes del equipo tengan acceso a los avances y contribuciones realizadas.
+Esto es un equipo de GitHub, creado con el propósito de desarrollar y gestionar diversos códigos que serán fundamentales en nuestros proyectos. A través de esta plataforma, podremos organizar, visualizar y colaborar en cada implementación de manera eficiente, asegurando que todos los integrantes del equipo tengan acceso a los avances y contribuciones realizadas.
 
 
 
