@@ -1,10 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-# ByteStorm™
+<h1>ByteStorm™</h1>
+<br>
+<br>
+<br>
+<br>
+<h2><i>"Transformando ideas en innovación digital."</i></h2>
+<br>
+<br>
+<br>
+<br>
 
 <p align="left"> 
  ByteStorm es una empresa innovadora dedicada al diseño y desarrollo de <i>soluciones digitales</i>, incluyendo aplicaciones web, software multiplataforma y herramientas adaptadas a una amplia gama de sistemas operativos, como <strong>Windows, macOS, Linux, iOS y Android.</strong>
 </p>
+
+
 
 <p align="left">
   <strong>🦄 ¿Qué es esto?</strong>
@@ -39,3 +49,5 @@ Para el desarrollo de aplicaciones en entornos como Unity y software de escritor
   <a href="mailto:info@byte-storm.xyz" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
+
+@Soy-Katsito :+1: Todo esto fue hecho por mi. :shipit:
