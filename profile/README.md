@@ -1,9 +1,9 @@
 <img src="banner.png" alt="ilustração de um computador" min-width="400px" width="1500px" align="center">
 <hr>
-<h1 align="center">ByteStorm™</h1>
-<p align="left"> 
+
+<h3 align="left"> 
 Somos una empresa innovadora dedicada al diseño y desarrollo de <i>soluciones digitales</i>, incluyendo aplicaciones web, software multiplataforma y herramientas adaptadas a una amplia gama de sistemas operativos, como <strong>Windows, macOS, Linux, iOS y Android.</strong>
-</p>
+</h3>
 
 ## 🦄 ¿Qué es esto?
 
